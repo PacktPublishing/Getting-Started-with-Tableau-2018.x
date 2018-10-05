@@ -27,6 +27,7 @@ All of the code is organized into folders. For example, Chapter02.
 
 ```
 
+
 **Following is what you need for this book:**
 If you're a beginner or an existing BI professional looking to get the most out of Tableau 2018's latest features, this book is for you. You’ll also find this book useful if you’re an aspiring analyst who wants to learn the capabilities of Tableau to answer business-specific questions. No prior knowledge or experience with Tableau or any other Business Intelligence tool is necessary.
 
@@ -48,14 +49,14 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 
-### Related products <Other books you may enjoy>
+### Related products
 * Advanced Analytics with R and Tableau [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781786460110) [[Amazon]](https://www.amazon.com/dp/1786460114)
 
 * Mastering Tableau [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784397692) [[Amazon]](https://www.amazon.com/dp/1784397695)
 
 ## Get to Know the Author
-**Tristan Guillevin**
-is a true data lover who likes to share his passion. He graduated from engineering school in 2015. During these years, he went to Burkina Faso to teach computer science in schools around the country. The will to share and help people never left him since then. He started his professional life as a consultant at Actinvision, where he discovered Tableau. Soon, data visualization became a passion that has taken him around the world. In 2017, he won the Iron Viz (the ultimate data visualization battle organized by Tableau every year) in Las Vegas. Since his winning, he helps people with Tableau by making webinars, conferences, blog articles, and finally, this book! He's currently working at Ogury as a business analyst.
+
+**Tristan Guillevin** is a true data lover who likes to share his passion. He graduated from engineering school in 2015. During these years, he went to Burkina Faso to teach computer science in schools around the country. The will to share and help people never left him since then. He started his professional life as a consultant at Actinvision, where he discovered Tableau. Soon, data visualization became a passion that has taken him around the world. In 2017, he won the Iron Viz (the ultimate data visualization battle organized by Tableau every year) in Las Vegas. Since his winning, he helps people with Tableau by making webinars, conferences, blog articles, and finally, this book! He's currently working at Ogury as a business analyst.
 
 
 

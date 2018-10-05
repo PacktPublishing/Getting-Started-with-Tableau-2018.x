@@ -25,8 +25,6 @@ alt="https://www.packtpub.com/" border="5" /></a>
 All of the code is organized into folders. For example, Chapter02.
 
 
-```
-
 
 **Following is what you need for this book:**
 If you're a beginner or an existing BI professional looking to get the most out of Tableau 2018's latest features, this book is for you. You’ll also find this book useful if you’re an aspiring analyst who wants to learn the capabilities of Tableau to answer business-specific questions. No prior knowledge or experience with Tableau or any other Business Intelligence tool is necessary.

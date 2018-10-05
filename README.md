@@ -33,11 +33,10 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter        | Software required                                 | OS required                        |
-| --------       | --------------------------------------------------| -----------------------------------|
-| All            | Tableau Desktop 2018.3                            | Windows / Mac)                     |
-| 1, 9, 13       | Tableau Online / Tableau Server 2018.3            |Tableau Online: None (cloud-based)/
-                                                                      Tableau Server: Windows/Linux       |
+| Chapter        | Software required                                 | OS required                                                     |
+| --------       | --------------------------------------------------| ----------------------------------------------------------------|
+| All            | Tableau Desktop 2018.3                            | Windows / Mac)                                                  |
+| 1, 9, 13       | Tableau Online / Tableau Server 2018.3            |Tableau Online: None (cloud-based)/Tableau Server: Windows/Linux |
 
 
 
@@ -48,9 +47,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products
+
 * Advanced Analytics with R and Tableau [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781786460110) [[Amazon]](https://www.amazon.com/dp/1786460114)
 
 * Mastering Tableau [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784397692) [[Amazon]](https://www.amazon.com/dp/1784397695)
+
 
 ## Get to Know the Author
 

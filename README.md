@@ -36,8 +36,8 @@ With the following software and hardware list you can run all code files present
 | Chapter        | Software required                                 | OS required                        |
 | --------       | --------------------------------------------------| -----------------------------------|
 | All            | Tableau Desktop 2018.3                            | Windows / Mac)                     |
-| 1, 9, 13       | Tableau Online / Tableau Server 2018.3            |Tableau Online: None (cloud-based)  |
-                                                                     |Tableau Server: Windows/Linux       |
+| 1, 9, 13       | Tableau Online / Tableau Server 2018.3            |Tableau Online: None (cloud-based)/
+                                                                      Tableau Server: Windows/Linux       |
 
 
 
